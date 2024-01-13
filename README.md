@@ -1,4 +1,7 @@
 # GTSERVER-Modified
+
+# Download source here (https://dosya.co/awdcak3vvloc/GTSERVER-Xoid.zip.html)
+
 I am leaking this source because of some idiot
 
 
